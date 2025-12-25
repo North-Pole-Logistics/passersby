@@ -30,18 +30,21 @@ blockquote{
     font-style: italic;
     margin: 1em auto;
     padding: .5em 1em;
+    border: 0;
+    border-left: 0;
 }
 a {
     color:#fc0 !important;
 }
 ol {
-    column-width: 20em;
+    column-width: 12.5em;
     line-height: 1.75;
     text-align: left;
 }
 ul {
     display: block;
     list-style: none;
+    font-size: .8em;
 }
 ul li {
     position: relative;
