@@ -5,12 +5,17 @@
 <link href="https://fonts.googleapis.com/css2?family=Pirata+One&family=Rubik+Wet+Paint&display=swap" rel="stylesheet">
 
 <style type="text/css">
+html {
+    background:#500 !important;
+    background-color:#500 !important;
+}
 body{
     background:#500 !important;
     background-color:#500 !important;
     color:#fc9 !important;
     max-width: 50em;
-    margin: 1em auto;
+    margin: 0 auto;
+    padding: 1em;
     font-size: 1.5em;
     font-family: "Pirata One", system-ui;
     font-weight: 400;
@@ -89,6 +94,8 @@ b, strong {
 4. [SLIT Wrists](https://swaroopg92.github.io/penpa-edit/#m=solve&p=vVXfb6M4EH7PX4H8utYuBgIGaR/S9IeuanvtJb1ci6KKEqehJZA10GaJun/7jn/kAiTde7k7kUw+fx7G39ieSfGtijjDHjw2xSYm8NimI7+uKT7bZ5yUKQuM0cVvY2PCk6Is8KAqFzkHLsrKCOOBiJVUS4NXKSuMWW5keWlEq1X6/bMxyIo3xo14weIX+GXrFYvLwnjijGUGW67K70aximL2Gf9+eornUVowfH73fHT8Mng7Gfz1pX9v27dX80/Pxze3z7PJn+TGTL5w8yql2eX18VH66ay+v1wMXtkJc6+LPF6kLJpF9f3kfJ1mp/RpMSfD88WQzqPMLL7Rsf96dPP1ay/U6U17IbIQll+Cpj/q0Y8QIexOe5v6j2BTPwTh9B3XtztId3AUbMBeSUukvZP2VFpL2jG44tqW9lhaU9q+tBfS5yTYIOI4mDh9FFggxOlj0ncV7ruAPY09wFT7dLCjsd3EFLCvfXzwN3UcOHCXKOzC0XuWwp6FCbUVpjYmvqOw72DLVNosuCA7bANWPhKTrb8FvI4DmPjbmA3swbpUrwvXDcZaG+h0tU4H9Pe1fhfycnVeLuyJq/fEBR9P+3jwLtXveuDvaX8PfKj2oeDjax/fBJ1qXfgF/UqPxKbW5jcwBZ2+1klBv7/dN+Dpdj8hvrfdZ1jXFevCIU/kUQ+ldaR15RXwxF3q9UILzr/xwA34t0firo8qPodqQ3C/UZGnD4UaP7B1FJcoKHnFcHMCBaokJZdVy0fGW1Sa56s0yf4OcGCqRSZPWc7ZwSlBstnTR6HE1IFQjzmfdTS9RWnaIlSza1FxwuO0TZU8aY0jzvO3FrOMykWLeIxKaI7FIlm1I7Gsrb8oo7bE6AU6Zjv2bjvee2iN5DeEmhLntqn9oB7g+ixodStc30AzugzqkehFom+RKUbLKi2TOE9zWFJz0GdCeAFbAE92cCLnBRoqkpiArzQGeAdQ7dTDhWKug7AeYyTWPpJvC4iW+SuIl6/JcZwvHyG9EDU2CNswUVSz/KXSrkT00EEnA/fXGUCQbQYCqgwEOpCBSOy/zcCfvqvDMv/nv4t/7CdrXd8575Z4487tJrv0gUoH9hfF3pg9xH9Q143ZLr9XxELsfh0De6CUge1WM1D7BQ3kXk0D90FZi6jdyhaqusUtltqrb7FUs8TDae8n&a=VZDJCcUwEMUa8iGZbanFpP828j36l0BA+KHoMHtvsRXP2uIgQIJactADvWZUTA3GBMWIaRe4ZzSaRtMwrQdO0+/5wYUXTcd0mkEzaAZmKMAMmkkzaaYAzDRemEWzaBZmYRZ3KZ+xaTZmY7YCmv03z11+/HzPCw==)
 5. [Rh Factor](https://swaroopg92.github.io/penpa-edit/#m=solve&p=tVXNbuM2EL77KQQBPYXNipQsSwJ6cH683W3iTeIEaSwYgeIosRLZcvWTHwXZa6+99lH6CNu+1M4MKduSnS2KtpBNffNxOJwZcYbZL0WQhsyBx3SYwTg8piXoLwyX/oZ6TqM8Dj3tZKL1gnGepKxb5JMk9bRBMMsDxrpoKyqmWlrEYaYF83n8vL29rf31Oz5ffvvz1y9/JIPvxB78urPsMUy18SQc38M7fJqH4zzTbtMwnGnhdJ4/a9k8GIfb7FOvx26COAvZx4vJwW7Sfdzr/vzg5MMhf28UH4zzu97d1sn0pw+RmfJe3zk6PDqMxG33x92dY3t/yz4qsrM8fDie8p27s+HpzdH5rSue9/tDqxx+MtofhzfvHrpnP7R8TuEbo5avC53Rn+ujz+Xgs6/rzB61XsoT76W89PzRKyvPltBZwoH3AmPfe9FFR/d83dTBJJoBew4S7RXCbWiYRkPD5E0N0dQwGxo2aYDvFdGxGhqOXdMAdzm425Gmu1vA0ypathCdmugYUvxeiRY5vpjt0A4L0ZWiUnaVciU6ddGVbizElbXg6QWlt0ejoPEU8s5Kk8Y9Gg0a2zQekM4+xMc7cLIdyJaAqB2TcbctsWstsYMYdiTeBgzfkHAH64CwMJw6FuA/Yg61UmED9HmlY4O+tCME1JSQPsAbMKSRsAVY+kA6puJN4E3Fm23A0jd4A1Y2kbcUtmBfC45ZpVNhzpf7IuaQZMLoj9rLMBY8dzBGGQti7qhYLOBtFaMF9tvVXuCnpfLWgdw6VT7bixxSfvA8kz74YCl/sM9UGHk8h4SRV75ZYL9dxY75qfQhh1WuBK5VPPYtIffCb8dd6Se8Icbqe0G8QsULPHdljPBext4B/x11Bhy0o3Tw/GBFCDhc53TEdmm0aLTp6HWwIbRavulST60eOFX/tYQNa1CkN9AtdWhSepbEl5mUL8Mn6NS6l6dFyFYndE+2VOJmxfQqTGtUnCTzOJotDGyYqpHR7SxJw41TSIbXt2+ZwqkNpq6S9Lrh02MQxzVC3l01ahyl47hO5WlUk4M0TR5rzDTIJzXiKsjhpssm0bxuKZzV/c/yoO5icA8XYN32Mh2vLf1Jp78P5xa/20vpeuUxK9/LhlxdOaw8hhvl0Cv7eKHg5YO9cFrEeTRO4gS2VBz0Nx8WMAFwfwnPaR7RriS5AbivrgGAFwBlpi4PJHPk+eUp03HvHVqNUJ8mD+A8mSB5nEyvIDxfX0kQM2EiK66T+0KpUqfuyggGVQT2tyMAI1UECGUEiJoRqBD/3wjc0av8WMY/uvPlVfpvrqm/7SdPqr6TtFniK2duOdmkN1Q6sN8o9pXZTfwbdb0y2+TXihidXa9jYDeUMrDNagZqvaCBXKtp4N4oa7TarGz0qlncuNVafeNWqyXuj1pfAQ==&a=VZBBDsUgCAUv5EIUEM5iev9rtJ9h85MmE+r4ePHeK3MOf8ZHGau4mrupfW7MIsyymrvZnljTm6fu7axR2aaEKBlKhJKgBBiKoRhtDMVaYYWxwVFcAXUdxVsJQJeDchygnOAsawrqBl0CJVCClJz1M3m+5PWSLvlL+fj3PS8=)
    
+---
+
 More puzzles to come soon; I need to go source more&hellip; **material**.
 
 Thanks to my test-solver elves:
