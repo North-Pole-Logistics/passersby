@@ -1,4 +1,4 @@
-<!-- pandoc ./passersby.md -o docs/index.html -->
+<!-- pandoc -s ./passersby.md -o docs/index.html -->
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
